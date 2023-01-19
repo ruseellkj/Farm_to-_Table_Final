@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Final"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "gwoc-Proj"
+	}
+}
